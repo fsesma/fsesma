@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fsesmajr
-- 👀 I’m interested in aerospace applications of software and video game design.
-- 🌱 I’m currently learning JavaScript and more Python.
+- 👀 I’m interested in software engineering for aerospace applications and video game design.
+- 🌱 I’m currently learning HTML/CSS, JavaScript and more Python.
 - 💞️ I’m looking to collaborate on independent video game projects!
 
 <!---
