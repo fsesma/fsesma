@@ -16,7 +16,7 @@ I am a software engineer in my first full-time position (and still learning a lo
 
 ### Platforms & Frameworks
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white)
 
 ## Contact
