@@ -12,7 +12,7 @@ I am a software engineer in my first full-time position since graduating univers
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=ffffff)
+![Bash](https://img.shields.io/badge/bash-20232a?style=for-the-badge&logo=gnu-bash&logoColor=ffffff)
 
 ### Platforms & Frameworks
 ![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
