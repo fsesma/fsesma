@@ -1,7 +1,5 @@
 # Fernando Sesma
 
-Current: Software Engineer @[Dell Technologies](https://github.com/dell)
-
 ## About Me
 I am a software engineer in my first full-time position since graduating university, currently working in creating Spring-based microservices in Java for deployment in the cloud. My primary software interests include web development, API design, and video game development.
 
