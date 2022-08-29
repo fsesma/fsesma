@@ -1,10 +1,9 @@
 # Fernando Sesma
-New software developer trying to make it all work!
 
 Current: Software Engineer @[Dell Technologies](https://github.com/dell)
 
 ## About Me
-I am a software engineer in my first full-time position (and still learning a lot!) My current job involves creating Spring based microservices in Java for deployment in the cloud. Furthermore, I'm a big fan of front-end development—with an interest in web development and scraping, API design, and video game development. With a primary background in aerospace engineering, software development has been a fascinating journey that I look forward to continuing! I hope you enjoyed reading this blurb and that my GitHub repos may aid you in YOUR software journey.
+I am a software engineer in my first full-time position since graduating university, currently working in creating Spring-based microservices in Java for deployment in the cloud. My primary software interests include web development, API design, and video game development.
 
 ## Development
 ### Languages
@@ -13,6 +12,7 @@ I am a software engineer in my first full-time position (and still learning a lo
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=ffffff)
 
 ### Platforms & Frameworks
 ![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
