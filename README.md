@@ -1,7 +1,5 @@
-# Fernando Sesma
-
 ## About Me
-I am a software engineer in my first full-time position since graduating university, currently working in creating Spring-based microservices in Java for deployment in the cloud. My primary software interests include web development, API design, and video game development.
+I am currently working in my first full-time position since graduating from university, creating Spring-based microservices in Java for deployment in the cloud. My primary software interests include web development, API design, and video game development.
 
 ## Development
 ### Languages
