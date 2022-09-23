@@ -1,5 +1,5 @@
 ## About Me
-I am currently working in my first full-time position since graduating from university, creating Spring-based microservices in Java for deployment in the cloud. My primary software interests include web development, API design, and video game development.
+I am currently working in my first full-time position since graduating from university, creating Spring-based microservices in Java for deployment in the cloud. My primary software interests include front-end web development, API design, Apache Maven plugins, Jenkins/DevOps concepts at large, and video game development.
 
 ## Development
 ### Languages
