@@ -11,7 +11,6 @@ Currently working in my first full-time position at Dell Technologies, creating 
 ![Maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=React&logoColor=61DAFB)
-![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## Contact
 
