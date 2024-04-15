@@ -1,7 +1,7 @@
 ## About Me
 Currently working in my first full-time position at Dell Technologies, creating scalable and secure Spring Boot microservices written in Java for deployment in the cloud. I specialize in security-focused software development across the technical stack.
 
-## Development Expertise
+## Specializing In
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
