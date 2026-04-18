@@ -9,8 +9,8 @@ Hey! 👋 My name is Fernando and I am currently working in my first full-time p
 
 ### Platforms & Frameworks
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&logoSize=auto)
-![Claude](https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=claude&logoColor=white&logoSize=auto)
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=React&logoColor=61DAFB&logoSize=auto)
+![Claude](https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=claude&logoColor=white&logoSize=auto)
 
 <!---
 fsesmajr/fsesmajr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
